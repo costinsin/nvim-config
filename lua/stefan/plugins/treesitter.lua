@@ -43,6 +43,7 @@ return {
 					"haskell",
 					"elixir",
 					"heex",
+					"sql",
 				},
 			})
 		end,
